@@ -44,22 +44,22 @@ You can visit the deployed website [here](https://leithdm.github.io/milestone-pr
 
 This project is part of the [Code Institute](https://codeinstitute.net/) Full Stack Software Development course, specifically **Module 1: User-Centric Front-End**. The objective for this milestone project is to "*build a static front-end site to present useful information to users... data is presented in a way that helps users achieve their goals goals, e.g. learning about a product/service that they are interested in. The presentation of this data advances the site owner's goals, e.g. helps them market a product/service.*"
 
-Lethal Apps is a company founded in 2015 to provide software development services, specifically for web and mobile application development. As company owner, this project was an opportunity to create a website to highlight the services Lethal Apps has to offer, to show-case previously published apps along with open-source portfolio work, and for customers to get in contact with the agency to avail of these services. 
+Lethal Apps is a company founded in 2015 to provide software development services, specifically for web and mobile application development. As company owner, this project was an opportunity to create a website to highlight the services Lethal Apps has to offer, to show-case previously published apps along with open-source portfolio work, and for customers to get in contact with the agency to avail of these services.
 
 <br/>
 
 ### User Stories
 
-- User Stories were written from the perspective of the website owner, a user, and the developer. 
-  
+- User Stories were written from the perspective of the website owner, a user, and the developer.
+
 <br/>
 
 "**__As an *owner*, I__** ______________________________________________"
 
-- need a  modern, dynamic website to reflect the values of our company.  
+- need a  modern, dynamic website to reflect the values of our company.
 - need to ensure customers can use this website to get in Contact.
 - need to ensure customers can see a show-case of portfolio work.
-- must let the customer know about our past successes via testimonials. 
+- must let the customer know about our past successes via testimonials.
 
 <br/>
 
@@ -71,8 +71,8 @@ Lethal Apps is a company founded in 2015 to provide software development service
 - should have all of my actions confirmed, where appropriate, and feedback should be given at all times.
 - should be able to view a show-case of previously completed works by the company.
 - should be able to make further enquiries by filling out an enquiry form.
-- should be able to see testimonials from other customers that have used the services of this company. 
-- should be able to read further details on the company, including info on employees, company vision, etc. 
+- should be able to see testimonials from other customers that have used the services of this company.
+- should be able to read further details on the company, including info on employees, company vision, etc.
 - my interaction with the site should produce a positive emotional response. I should immediately be drawn-in.
 
 <br/>
@@ -101,7 +101,7 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 #### Color Scheme
 
-- In keeping with the overall *modern* theme, I have opted for a bright color scheme, with plenty of white space. Primary and secondary site colors are inspired from the Lethal Apps Logo i.e. yellow (#ebf65c), red(#df3939), olive-green(#a3ca87) with hints of grey. 
+- In keeping with the overall *modern* theme, I have opted for a bright color scheme, with plenty of white space. Primary and secondary site colors are inspired from the Lethal Apps Logo i.e. yellow (#ebf65c), red(#df3939), olive-green(#a3ca87) with hints of grey.
 
 <br/>
 
@@ -148,17 +148,17 @@ Bootstrap is a free and open-source CSS framework directed at responsive, mobile
 
 **The Header** includes:
 
-- **Site Logo**: created using Photoshop, this allows the user to instantly recognise the companies brand. 
+- **Site Logo**: created using Photoshop, this allows the user to instantly recognise the companies brand.
 - **Navigation Bar**: allows the users to navigate through the site in an easy and intuitive way. Fully responsive, with a burger-bun for smaller devices.
-- **'Get In Touch'**: a 'Get in Touch' button that navigates the user to fill out a Contact form. This button is highly visible at all times on the fixed navbar. 
+- **'Get In Touch'**: a 'Get in Touch' button that navigates the user to fill out a Contact form. This button is highly visible at all times on the fixed navbar.
 
 <br/>
 
 **The Footer** includes:
 
-- **Company Name**: allows the user to easily recognise the business’ identity. The footer uses text here to provide contrast to the logo which is visible on the header. 
-- **Contact Details**: includes an Email Address that allows users to contact the restaurant if they have any enquiry.
-- **Social**: allows users to know more about the restaurant and to read other people’s reviews. These are all dead-links. 
+- **Company Name**: allows the user to easily recognise the business’ identity. The footer uses text here to provide contrast to the logo which is visible on the header.
+- **Contact Details**: includes an Email Address that allows users to contact the company if they have any enquiry.
+- **Social**: allows users to know more about the company and to read other people’s reviews. These are all dead-links.
 
 Both the Header and the Footer are consistent throughout the website.
 
@@ -166,33 +166,33 @@ Both the Header and the Footer are consistent throughout the website.
 
 **Home Page** includes:
 
-- **Header Video**: eye-catching, and engaging. The user is immediately drawn into the site. This feature had to be carefully implemented as a poorly executed, overly distracting or 'buggy' background video can be a major turn-off for potential customers. Video was replaced with a static image for small-form-factor devices. 
-- **Call to action button**: allows a user to instantly 'Tell Us About Your Project' as soon as they arrive at the site. 
-- **Services**: allows a user to instantly learn more about the companies Services, in small, easily digestable chunks of information. There is also a 'View Our Work' button to further engage the customer. 
-- **Project Management**: allows the user to understand how the company delivers its projects. Shows the user the methodologies employed by the company, and lets them know there is a clear and precise process for delivering their product. 
-- **Testimonials**: allows the user to see postive, re-affirming reviews and feedback from previous customers. Illustrates integrity and trustworthiness. 
+- **Header Video**: eye-catching, and engaging. The user is immediately drawn into the site. This feature had to be carefully implemented as a poorly executed, overly distracting or 'buggy' background video can be a major turn-off for potential customers. Video was replaced with a static image for small-form-factor devices.
+- **Call to action button**: allows a user to instantly 'Tell Us About Your Project' as soon as they arrive at the site.
+- **Services**: allows a user to instantly learn more about the companies Services, in small, easily digestable chunks of information. There is also a 'View Our Work' button to further engage the customer.
+- **Project Management**: allows the user to understand how the company delivers its projects. Shows the user the methodologies employed by the company, and lets them know there is a clear and precise process for delivering their product.
+- **Testimonials**: allows the user to see postive, re-affirming reviews and feedback from previous customers. Illustrates integrity and trustworthiness.
 
 <br/>
 
 **Work Page** includes:
 
-- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices. 
-- **x4 Portfolio Items**: big, bold, and colourful, these primary portfolio items show-case work performed by the company. Allows the user to see the companies pedigree. 
-- **Open Source Portfolio Items**: a chance to show-case open-source projects in a masonry style display. Includes links to 'source code' and 'live views'. Allows the user to see that the company gives back to the community, and has fun in the process. 
+- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices.
+- **x4 Portfolio Items**: big, bold, and colourful, these primary portfolio items show-case work performed by the company. Allows the user to see the companies pedigree.
+- **Open Source Portfolio Items**: a chance to show-case open-source projects in a masonry style display. Includes links to 'source code' and 'live views'. Allows the user to see that the company gives back to the community, and has fun in the process.
 
 <br/>
 
 **Company Page** includes:
 
-- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices. 
-- **Short 'Who we are' story**: allows the user to learn more about the companies philosophy, and history. 
-- **Meet the Team**: allows the user to see some of the team members, in a visually appealing way. 
+- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices.
+- **Short 'Who we are' story**: allows the user to learn more about the companies philosophy, and history.
+- **Meet the Team**: allows the user to see some of the team members, in a visually appealing way.
 
 <br/>
 
 **Contact Page** includes:
 
-- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices. 
+- **Header Video**: eye-catching, and engaging. The user is drawn further into the page. Video was replaced with a static image for small-form-factor devices.
 - **Contact form**: allows the user to contact the company.
 - **Map**: allow the user to know where the company is located.
 
@@ -205,10 +205,10 @@ Both the Header and the Footer are consistent throughout the website.
 ### Future Features
 
 - The contact form should POST, and send comfirmation email upon receipt.
-- In-depth Case Studies: the x4 main portfolio items on work.html should have individually linked pages detailing wire-frames, user stories, prototypes, etc.  
-- Blog section to further promote and advertise the ideas of the company, and developments within the industry. 
+- In-depth Case Studies: the x4 main portfolio items on work.html should have individually linked pages detailing wire-frames, user stories, prototypes, etc.
+- Blog section to further promote and advertise the ideas of the company, and developments within the industry.
 - Further detail on 'Meet The Team'.
-- Video optimization of header-videos for faster loading. 
+- Video optimization of header-videos for faster loading.
 
 
 ##### back to [top](#table-of-contents)
@@ -221,7 +221,7 @@ Both the Header and the Footer are consistent throughout the website.
 
 - [VS Code](https://code.visualstudio.com/) - used as the primary IDE.
 - [GitHub](https://github.com/) - used for remote storage of code.
-- [Photoshop CS6](https://www.adobe.com/Photoshop) - used for creating logo, site images. 
+- [Photoshop CS6](https://www.adobe.com/Photoshop) - used for creating logo, site images.
 - [TinyPNG](https://tinypng.com/) - used to optimize (.jpg, .png) images for faster loading.
 
 ### Front-End Technologies
@@ -231,10 +231,10 @@ Both the Header and the Footer are consistent throughout the website.
 - [Bootstrap](https://getbootstrap.com/) - used to create the layout of the project.
 - [Balsamiq](https://balsamiq.com/) - used to create the project's wireframes.
 - [Google Fonts](https://fonts.google.com/) - used to provide font styling.
-- [Font Awesome](https://fontawesome.com/) - used to provide icons. 
-- [Flaticon](https://www.flaticon.com/) - used to provide icons. 
+- [Font Awesome](https://fontawesome.com/) - used to provide icons.
+- [Flaticon](https://www.flaticon.com/) - used to provide icons.
 - [Logo Makr](https://logomakr.com/) - used to make icons for open source section.
-- [Am I Responsive?](http://ami.responsivedesign.is/) - used to show site responsiveness. 
+- [Am I Responsive?](http://ami.responsivedesign.is/) - used to show site responsiveness.
 
 <br/>
 
@@ -281,13 +281,13 @@ To clone this project from GitHub:
 
 ### Content
 
-- All of the text in this site was created by myself. Any resemblance to other website content is coincidental. 
+- All of the text in this site was created by myself. Any resemblance to other website content is coincidental.
 
-- I made use of the following Boostrap components, all of which were modified: 
-   - [Collapsible navbar](https://getbootstrap.com/docs/4.0/components/navbar/) 
+- I made use of the following Boostrap components, all of which were modified:
+   - [Collapsible navbar](https://getbootstrap.com/docs/4.0/components/navbar/)
    - [Cards](https://getbootstrap.com/docs/4.5/components/card/)
    - [Carousel](https://getbootstrap.com/docs/4.5/components/carousel/)
- 
+
 <br/>
 
 ### Media
@@ -300,4 +300,4 @@ To clone this project from GitHub:
 
 ### Acknowledgments
 
-- [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/?originalSubdomain=ng) - for his mentorship and guidance. 
+- [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/?originalSubdomain=ng) - for his mentorship and guidance.
